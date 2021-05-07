@@ -1,2 +1,2 @@
-# PLANEJAMENTO-AGIL
- Inventario de estoque ecommerce
+# Planejamento-Agil
+ Inventário estoque Ecommerce
