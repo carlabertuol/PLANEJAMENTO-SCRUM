@@ -1,154 +1,141 @@
 # Planejamento de tarefas do Ciclo Ágil
-# TIME: Hacker #37
+# TIME: Hacker #39
 ## Projeto Gama Academy. 
 
- # Inventário de estoque Ecommerce.
+ # Criação de Website Responsivo
 ## **Sprint 1**
 
-- Atividade 1- Preparação do ambiente JS.
+- Atividade 1- Preparação e leitura do projeto.
    
+     **Story**: **Abrir Vscode.**
 
-        -Estimativa (pontos): 3 
+        -Estimativa (pontos): 8
 
-        Início:  06/05/2021
-        Término: 06/05/2021
-(Revisão diária - 15 minutos)
-- Atividade 1.1 - Quantidade total de itens em estoque.
+        Início:  20/09/2021
+        Término: 20/09/2021
+   (Revisão diária - 15 minutos)
+   
+- Atividade 1.1 - Definição do projeto 
 
-    **Story**: **Somatória das quantidades de todos os produtos**
+    **Story**: **Definir ordem para inicio**
    
 
 
         -Estimativa (pontos): 5
 
-        Início:  07/05/2021
-        Término: 07/05/2021
+        Início:  21/09/2021
+        Término: 21/09/2021
 
 (Revisão diária - 15 minutos)
 
-- Atividade 1.2 - Quantidade total de itens e destaque.
-    
-    **Story**: **Somatória das quantidades dos itens marcados como "emDestaque: sim"**
+- Atividade 1.2 - Criação do HTML. 
+-    
+    **Story**: **Criar divs e salvar imagens**
   
     
         -Estimativa (pontos): 3 
         
-        Início: 08/05/2021
-        Término:09/05/2021
+        Início: 22/09/2021
+        Término:23/09/2021
 (Revisão diária - 15 minutos)
     
-- Atividade 1.3 - Quantidade total de itens disponíveis.
+- Atividade 1.3 - Criação HTML
 
-     **Story**: **Similar ao anterior**
+     **Story**: **Continuar na criação do HTML**
     
 
-        -Estimativa (pontos): 3
+        -Estimativa (pontos): 8
 
-        Início:  09/05/2021
-        Término: 09/05/2021
+        Início:  23/05/2021
+        Término: 23/05/2021
 
 (Revisão diária - 15 minutos)
 
-- Atividade 1.4 - Valor total do inventário da empresa.
+- Atividade 1.4 - Iniciar Css 
 
-    **Story: Somatória dos valores individuais multiplicado pela quantidade em estoque**
+    **Story**: **Definir estilo css**
 
-        -Estimativa (pontos): 3 
+        -Estimativa (pontos): 8 
 
-        Início:  10/05/2021
-        Término: 10/05/2021
+        Início:  24/05/2021
+        Término: 24/05/2021
 
-- Atividade 1.5 - Somatória de itens por departamento.
+- Atividade 1.5 - Começar Css 
 
-    **Story: você deverá retornar um objeto contendo o nome do departamento e o total de itens nele**
+    **Story**: **Iniciar estilos**
         
         -Estimativa (pontos): 3
 
-        Início:  10/05/2021
-        Término: 10/05/2021 
+        Início:  24/05/2021
+        Término: 25/05/2021 
 
 (Revisão diária - 15 minutos)
 
-- Atividade 1.6 - Valor total do inventário por departamento.  
+- Atividade 1.6 - Verificar falhas no HTML 
 
-    **Story: Similar ao item anterior**
+    **Story**:  **Ajustar  erros e acertos**
+
+        -Estimativa (pontos): 15
+
+        Início:  25/05/2021
+        Término: 26/05/2021
+
+- Atividade 1.7 - Catálogos
+
+    **Story**: **iniciar preços, produtos**
 
         -Estimativa (pontos): 3
 
-        Início:  11/05/2021
-        Término: 11/05/2021
-
-- Atividade 1.7 - Valor do ticket médio dos produtos da empresa.
-
-    **Story: Basicamente o valor total do inventário dividido pelo número de itens**
-
-        -Estimativa (pontos): 3
-
-        Início:  11/05/2021
-        Término: 11/05/2021
+        Início:  26/09/2021
+        Término: 26/09/2021
 (Revisão diária - 15 minutos)
 
-- Atividade 1.8 - Ticket médio por departamento.
+- Atividade 1.8 - Definir categorias
 
-**Story: Similar ao item anterior, porém retornando uma lista de objetos que contenha o nome do departamento e o seu ticket médio**
+**Story**: **Criar categorias**
 
         -Estimativa (pontos): 5
 
-        Início:  12/05/2021
-        Término: 12/05/2021
-
-- Atividade 1.9 - Departamento mais valioso.
-
-**Story: Qual o departamento que tem a maior somatória dos valores dos itens**
-
-        -Estimativa (pontos): 5
-
-        Início:  12/05/2021
-        Término: 13/05/2021
-
+        Início:  27/09/2021
+        Término: 27/09/2021
 (Revisão diária - 15 minutos)
-- Atividade 1.10 - Produto mais caro da loja.
 
-**Story: Bem como seu departamento**
+- Atividade 1.9 - Produtos em destaque
 
-     -Estimativa (pontos): 5
+**Story**: **Definir produtos em destaque**
 
-        Início:  13/05/2021
-        Término: 13/05/2021
+        -Estimativa (pontos): 7
 
-- Atividade 1.11 - Produto mais barato da loja. 
+        Início:  28/09/2021
+        Término: 28/09/2021
 
-**Story: Bem como seu departamento**
 
-     -Estimativa (pontos): 5
 
-        Início:  13/05/2021
-        Término: 13/05/2021
 
 ## **SPRINT 2**
 
-**Modelagem dos dados a serem armazenados**
+**Testes**
 
 (Revisão diária - 15 minutos)
 
- - Atividade 2.0 - Preparação do bancos de dados referente a endereços. 
+ - Atividade 2.0 - Iniciar testes do site, verificando organização. 
  
- **Story: Tipo de logradouro (RUA, AVENIDA, ALAMEDA,TRAVESSA, ETC) o logradouro em si, número, complemento, cep, bairro, cidade, estado**
+ **Story**: Verificar informações, código, imagens.
     
     
      -Estimativa (pontos): 13
 
         Início:  14/05/2021
         Término: 16/05/2021
-- Atividade 2.1 - Criar área destinado aos pedidos.
-
-**Story: Novo pedido; Cancelado;Aguardando pagamento; pagamento autorizado; pagamento negado; em separação; em transporte; entregue.**
+- Atividade 2.1 -Commitar o site
+- 
+**Story**: **Colocar no Github.**
 
     
      -Estimativa (pontos): 20
 
-        Início:  16/05/2021
-        Término: 18/05/2021
+        Início:  29/05/2021
+        Término: 29/05/2021
 
 (Revisão diária - 15 minutos)
 
